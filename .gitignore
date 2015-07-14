@@ -14,5 +14,5 @@ logs
 node_modules
 target
 /bin/
-p2p-service/xd.yml
+p2p-service/p2p.yml
 p2p-service/src/main/resources/assets/app/lib/
